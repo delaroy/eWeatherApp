@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="weekly_background">#2a3652</color>
+    <color name="colorPrimaryToday">#444eae</color>
+    <color name="transparent">#444eae</color>
 </resources>
